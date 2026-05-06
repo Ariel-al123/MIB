@@ -1,0 +1,9 @@
+Base de datos
+Modificar base de datos
+Crear bd en Access
+crear bd en sql
+
+Login
+modificar HTML de los textbox
+ajustar tamaños de las cajas
+hacer que los elementos no se salgan de sus cajas
